@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "216987623645",
+    "firebase_url": "https://hukum2-67bb8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hukum2-67bb8",
+    "storage_bucket": "hukum2-67bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216987623645:android:330991e41cef479df1bb34",
+        "android_client_info": {
+          "package_name": "com.example.demo_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpU4MZw35vPAP4VkN1INKdehLePcxp0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
